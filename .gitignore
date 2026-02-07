@@ -2,8 +2,4 @@ __pycache__/
 *.pyc
 db.sqlite3
 media/
-*.jpg
-*.jpeg
-*.png
-*.webp
 .env
